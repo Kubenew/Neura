@@ -1,4 +1,5 @@
 # Neura
+A convolutional neural network using the TensorFlow deep learning library or
  Transformer-based neural network using the PyTorch deep learning library:
 This code defines a transformer-based neural network called TransformerModel that takes in a sequence of integers and predicts the next integer in the sequence. The neural network is composed of an embedding layer, a positional encoding layer, a transformer encoder layer, and a fully connected layer.
 
